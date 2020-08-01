@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ae6a99455f1ad8643b2aa4013490d18f
+timeCreated: 1485138316
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Rabelo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7b2121343201f424aba555c73bb96d99, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
